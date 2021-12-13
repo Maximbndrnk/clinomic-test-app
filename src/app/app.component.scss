@@ -1,0 +1,12 @@
+@import "src/assets/variables";
+
+.root-container {
+  background-color: lightgray;
+}
+
+.app-content-container {
+  max-width: $view-port-max-width;
+  width: 100%;
+  background-color: $main-app-background;
+  min-height: 100vh;
+}

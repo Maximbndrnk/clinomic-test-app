@@ -1,0 +1,12 @@
+@import "src/assets/variables";
+
+
+.demo-table {
+  width: 100%;
+  max-width: $view-port-max-width;
+  overflow-x: scroll;
+}
+
+.table-container {
+  overflow-x: scroll;
+}
